@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Debdeep Sarkar
 
-<!--
-**Debdeep05/Debdeep05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Web Developer & Software Developer**  
+💻 Passionate about building user-friendly web applications and solving real-world problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **React, Java, Spring Boot**
+- 💡 Interested in **Frontend Development & Full-Stack Projects**
+- 🛠️ Love turning ideas into working applications
+- 🎯 Actively looking for **Web Developer / Software Engineer roles**
+
+---
+
+## 🛠️ Tech Stack
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6)
+- React.js, Express.js
+
+**Backend**
+- Node.js
+- Python
+- REST APIs
+
+**Database**
+- MySQL
+- MongoDB
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+- Bootstrap
+- Render
+- AWS
+- Cloudinary
+
+
+## 📈 What I’m Working On
+- Improving React component architecture
+- Building full-stack projects
+- Strengthening DSA & problem-solving skills
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Debdeep05
+- LinkedIn: https://www.linkedin.com/in/debdeep-sarkar-/
+
+---
+
+⭐ **I love learning, building, and growing as a developer**
